@@ -2,7 +2,7 @@
 # makefile for the maintenance of the git repository
 
 pull:
-	git pull origin master
+	git pull origin
 
 add:
 	git add -A
