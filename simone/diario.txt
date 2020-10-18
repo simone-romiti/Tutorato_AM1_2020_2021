@@ -7,3 +7,7 @@ Calendario delle lezioni svolte:
 
 Campo dei numeri reali.
 Dimostrazioni formali delle elementari proprietà algebriche.
+
+15/10/2020
+
+Principio di induzione. Proprietà della distanza tra due numeri reali.
