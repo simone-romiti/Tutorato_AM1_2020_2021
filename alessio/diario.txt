@@ -1,2 +1,6 @@
 08/10: esercitazione 8:00-10:00 aula M2
 Esercizi su insiemi e numeri reali: dimostrazioni di alcune proprietà partendo dagli assiomi degli insiemi
+
+15/10: esercitazione 8:00-10:00 aula M2
+Esercizi su principio di induzione e distanza tra numeri reali; dimostrazioni per induzione
+
