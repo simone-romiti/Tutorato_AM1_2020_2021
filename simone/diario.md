@@ -24,3 +24,7 @@ Funzioni iniettive e suriettive.
 Binomio di Newton.
 Cardinalità degli insiemi.
 **2 h**
+
+**29/10/2020 :**
+Estremo inferiore e superiore di un insieme dato.
+**2 h**
