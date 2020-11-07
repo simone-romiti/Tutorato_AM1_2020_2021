@@ -28,3 +28,14 @@ Cardinalità degli insiemi.
 **29/10/2020 :**
 Estremo inferiore e superiore di un insieme dato.
 **2 h**
+
+**05/11/2020 :**
+Estremo inferiore e superiore. Limiti di successioni.
+**2 h**
+
+_Nota:_ Uno studente (di Fisica) si era dimenticato di prenotarsi per la lezione, perciò ha lasciato le sue informazioni in caso di necessità:
+
+* Nome: Sandro Tamilia 
+* Cell: 3343563288 
+* Mail: sandrotobi@live.com
+
