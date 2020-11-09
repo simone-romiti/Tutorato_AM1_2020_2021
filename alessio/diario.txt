@@ -4,3 +4,8 @@ Esercizi su insiemi e numeri reali: dimostrazioni di alcune proprietà partendo 
 15/10: esercitazione 8:00-10:00 aula M2
 Esercizi su principio di induzione e distanza tra numeri reali; dimostrazioni per induzione
 
+29/10/: esercitazione 8:00-10:00 aula M2
+Esercizi su estremo inferiore e superiore di un insieme dato. 2 h
+
+05/11: esercitazione 8:00-10:00 aula M2
+Esercizi su estremo inferiore e superiore; esercizi su limiti di successioni. 2 h
