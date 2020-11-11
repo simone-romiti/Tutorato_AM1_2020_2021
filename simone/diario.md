@@ -34,8 +34,22 @@ Estremo inferiore e superiore. Limiti di successioni.
 **2 h**
 
 _Nota:_ Uno studente (di Fisica) si era dimenticato di prenotarsi per la lezione, perciò ha lasciato le sue informazioni in caso di necessità:
-
 * Nome: Sandro Tamilia 
 * Cell: 3343563288 
 * Mail: sandrotobi@live.com
+
+
+**11/11/2020 :**
+Chiarimenti su richiesta di un gruppo di studenti.
+Estremo superiore e inferiore. Limiti.
+**1.5 h**
+
+<!-- **12/11/2020 :**
+Ripasso pre-esonero.
+**2 h**
+
+**13/11/2020 :**
+Supervisione corretto svolgimento dell'esonero.
+**2 h** -->
+
 
