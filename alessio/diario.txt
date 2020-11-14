@@ -1,11 +1,20 @@
 08/10: esercitazione 8:00-10:00 aula M2
-Esercizi su insiemi e numeri reali: dimostrazioni di alcune proprietà partendo dagli assiomi degli insiemi
+Esercizi su insiemi e numeri reali: dimostrazioni di alcune proprietà partendo dagli assiomi degli insiemi. 2 h
 
 15/10: esercitazione 8:00-10:00 aula M2
-Esercizi su principio di induzione e distanza tra numeri reali; dimostrazioni per induzione
+Esercizi su principio di induzione e distanza tra numeri reali; dimostrazioni per induzione. 2 h 
 
 29/10/: esercitazione 8:00-10:00 aula M2
 Esercizi su estremo inferiore e superiore di un insieme dato. 2 h
 
 05/11: esercitazione 8:00-10:00 aula M2
 Esercizi su estremo inferiore e superiore; esercizi su limiti di successioni. 2 h
+
+11/11: incontro su richiesta di un gruppo di studenti su Microsoft Teams.
+Chiarimenti su limiti, sup e inf. 1.5 h
+
+12/11: esercitazione 8:00-10:00 Microsoft Teams
+Esercizi di esoneri passati. 2 h
+
+13/11: sorveglianza primo esonero 13:45-16:15
+Aula C Dipartimento di Fisica. 2.5 h
