@@ -44,12 +44,12 @@ Chiarimenti su richiesta di un gruppo di studenti.
 Estremo superiore e inferiore. Limiti.
 **1.5 h**
 
-<!-- **12/11/2020 :**
+**12/11/2020 :**
 Ripasso pre-esonero.
 **2 h**
 
 **13/11/2020 :**
 Supervisione corretto svolgimento dell'esonero.
-**2 h** -->
+**2 h**
 
 
