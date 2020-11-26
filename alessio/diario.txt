@@ -21,3 +21,6 @@ Aula C Dipartimento di Fisica. 2.5 h
 
 19/11: esercitazione 8:00-10:00 aula M2
 Esercizi su limiti all'infinito. 2 h
+
+26/11: esercitazione 8:00-10:00 aula M2
+Esercizi su limiti di successioni e lemma di Bernoulli. 2h
