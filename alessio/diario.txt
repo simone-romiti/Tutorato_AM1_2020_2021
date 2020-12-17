@@ -30,3 +30,6 @@ Esercizi su limiti notevoli. 2 h
 
 10/12: esercitazione 8:00-10:00 Microsoft Teams
 Esercizi su limiti notevoli e serie. 2 h
+
+17/12: esercitazione 8:00-10:00 Microsoft Teams
+Esercizi su serie dipendenti da un parametro. 2 h
