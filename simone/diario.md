@@ -52,4 +52,12 @@ Ripasso pre-esonero.
 Supervisione corretto svolgimento dell'esonero.
 **2 h**
 
+**7/01/2021 :**
+Serie. Criteri di convergenza. Preparazione in vista dell'esonero del 15/01/2021 
+**2 h**
+
+**8/01/2021 :**
+Ricevimento Giulia Teodori per chiarimenti sulle serie.
+**1.5 h**
+
 
