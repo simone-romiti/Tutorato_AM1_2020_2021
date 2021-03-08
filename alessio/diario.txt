@@ -39,5 +39,8 @@ Esercizi su serie dipendenti da un parametro. 2 h
 Aula M1 Dipartimento di Matematica 3 h
 
 
-01/03 esercitazione 12:14 aula M2
-Esercizi su topologia di R, insiemi aperti, chiusi, compatti, punti di accumulazione e di frontiera.
+01/03 esercitazione 12:00-1400 aula M2
+Esercizi su topologia di R, insiemi aperti, chiusi, compatti, punti di accumulazione e di frontiera. 2 h
+
+01/03 esercitazione 12:00-14:00 Microsoft Teams
+Esercizi su insiemi compatti, immagine e controimmagine di aperti e chiusi. 2 h
