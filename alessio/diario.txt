@@ -51,9 +51,9 @@ Esercizi su derivate di funzioni elementari, regole di derivazione. 2 h
 22/03 esercitazione 12:00-14:00 Microsoft Teams
 Esercizi su teorema di Fermat, teorema di Rolle, teorema di Lagrange. 2 h
 
+29/03 esercitazione 12:00-14:00 Microsoft Teams
+Esercizi su teorema di De L'Hopital e studio di funzioni. 2h
 
-
-
-TOTALE ORE: 35
+TOTALE ORE: 37
 
 TOTALE DA SVOLGERE 40+21
