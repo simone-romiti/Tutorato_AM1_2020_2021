@@ -54,6 +54,11 @@ Esercizi su teorema di Fermat, teorema di Rolle, teorema di Lagrange. 2 h
 29/03 esercitazione 12:00-14:00 Microsoft Teams
 Esercizi su teorema di De L'Hopital e studio di funzioni. 2h
 
-TOTALE ORE: 37
+
+06/04 esercitazione 15:00-17:00 Microsoft Teams
+Esercizi su primitive di funzioni, massimi e minimi e studio di funzione. 2h
+
+
+TOTALE ORE: 39
 
 TOTALE DA SVOLGERE 40+21
