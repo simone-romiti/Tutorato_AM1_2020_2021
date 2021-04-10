@@ -26,6 +26,15 @@ Introduzione alle derivate e agli integrali
 Esercitazione 11 16/03 15:00-17:00 2h 
 Esercizi sul calcolo del centro di massa
 
-TOTALE ORE: 18
+Esercitazione 12 30/03 15:00-17:00 2h 
+Esercizi sul calcolo del momento di inerzia
+
+Esercitazione 13 10/04 10:00-12:00 2h 
+Esercizi sul calcolo del momento di inerzia e sul puro rotolamento
+
+
+
+
+TOTALE ORE: 22
 
 TOTALE ORE DA SVOLGERE: 30
