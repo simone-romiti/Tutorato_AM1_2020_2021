@@ -58,7 +58,12 @@ Esercizi su teorema di De L'Hopital e studio di funzioni. 2h
 06/04 esercitazione 15:00-17:00 Microsoft Teams
 Esercizi su primitive di funzioni, massimi e minimi e studio di funzione. 2h
 
+13/04 esercitazione 12:00-14:00 Microsoft Teams
+Esercizi di riepilogo per preparazione all'esonero
 
-TOTALE ORE: 39
+26/04 esercitazione 12:00-14:00 aula M2
+Esercizi su serie di Taylor: definizione, limiti, sviluppi in serie noti
+
+TOTALE ORE: 43
 
 TOTALE DA SVOLGERE 40+21
