@@ -64,6 +64,10 @@ Esercizi di riepilogo per preparazione all'esonero
 26/04 esercitazione 12:00-14:00 aula M2
 Esercizi su serie di Taylor: definizione, limiti, sviluppi in serie noti
 
-TOTALE ORE: 43
+03/05 esercitazione 12:00-14:00 Microsoft Teams
+Esercizi su serie di Taylor:serie di prodotti di funzione, limiti, classi di continuità di funzioni.
+
+
+TOTALE ORE: 45
 
 TOTALE DA SVOLGERE 40+21
