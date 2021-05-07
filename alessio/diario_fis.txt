@@ -32,9 +32,12 @@ Esercizi sul calcolo del momento di inerzia
 Esercitazione 13 10/04 10:00-12:00 2h 
 Esercizi sul calcolo del momento di inerzia e sul puro rotolamento
 
+Esercitazione 15 04/04 15:00-17:00 2h 
+Esercizi sulla gravitazione
 
 
 
-TOTALE ORE: 22
+
+TOTALE ORE: 24
 
 TOTALE ORE DA SVOLGERE: 30
