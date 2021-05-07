@@ -67,7 +67,9 @@ Esercizi su serie di Taylor: definizione, limiti, sviluppi in serie noti
 03/05 esercitazione 12:00-14:00 Microsoft Teams
 Esercizi su serie di Taylor:serie di prodotti di funzione, limiti, classi di continuità di funzioni.
 
+07/05 Ricevimento su richiesta di alcuni studenti 15:30-16:30
+Spiegazioni su serie di Taylor di funzioni composte
 
-TOTALE ORE: 45
+TOTALE ORE: 46
 
 TOTALE DA SVOLGERE 40+21
