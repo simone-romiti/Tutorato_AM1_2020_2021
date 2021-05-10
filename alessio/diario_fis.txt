@@ -35,9 +35,11 @@ Esercizi sul calcolo del momento di inerzia e sul puro rotolamento
 Esercitazione 15 04/04 15:00-17:00 2h 
 Esercizi sulla gravitazione
 
+Esercitazione 16 11/04 15:00-17:00 2h 
+Esercizi sulla fluidodinamica
 
 
 
-TOTALE ORE: 24
+TOTALE ORE: 26
 
 TOTALE ORE DA SVOLGERE: 30
