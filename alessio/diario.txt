@@ -70,6 +70,11 @@ Esercizi su serie di Taylor:serie di prodotti di funzione, limiti, classi di con
 07/05 Ricevimento su richiesta di alcuni studenti 15:30-16:30
 Spiegazioni su serie di Taylor di funzioni composte
 
-TOTALE ORE: 46
+10/05 esercitazione 12:00-14:00 aula M2
+Esercizi su integrabilità secondo Riemann
+
+
+
+TOTALE ORE: 48
 
 TOTALE DA SVOLGERE 40+21
