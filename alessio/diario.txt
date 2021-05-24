@@ -76,9 +76,11 @@ Esercizi su integrabilità secondo Riemann
 17/05 esercitazione 12:00-14:00 aula M2
 Esercizi su teorema fondamentale del calcolo integrale, integrali definiti, funzioni integrali
 
+24/05 esercitazione 12:00-14:00 aula M2
+Esercizi su integrali impropri
 
 
 
-TOTALE ORE: 48
+TOTALE ORE: 50
 
 TOTALE DA SVOLGERE 40+21
