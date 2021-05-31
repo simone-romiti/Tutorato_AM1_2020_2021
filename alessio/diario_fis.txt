@@ -32,16 +32,19 @@ Esercizi sul calcolo del momento di inerzia
 Esercitazione 13 10/04 10:00-12:00 2h 
 Esercizi sul calcolo del momento di inerzia e sul puro rotolamento
 
-Esercitazione 15 04/04 15:00-17:00 2h 
+Esercitazione 15 04/05 15:00-17:00 2h 
 Esercizi sulla gravitazione
 
-Esercitazione 16 11/04 15:00-17:00 2h 
+Esercitazione 16 11/05 15:00-17:00 2h 
 Esercizi sulla fluidodinamica
 
-Esercitazione 17 18/04 15:00-17:00 2h 
+Esercitazione 17 18/05 15:00-17:00 2h 
 Esercizi sulla fluidodinamica e sulla dilatazione Termica
 
+Esercitazione 19 01/06 15:00-17:00 2h 
+Esercizi su macchine termiche e cicli
 
-TOTALE ORE: 28
+
+TOTALE ORE: 30
 
 TOTALE ORE DA SVOLGERE: 30
